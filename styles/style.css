@@ -1,0 +1,38 @@
+h1{
+    background-color: royalblue;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-top: auto;
+}
+section{
+   border: 2px solid black;
+   background-color: tomato;
+   max-width: 50vw;
+   margin: 40px 40px;
+   border-radius: 10px;
+  
+}
+#calculator input{
+    height: 50px;
+    margin: 30px 43%;
+    border-color: indigo;
+    font-size: 40px;
+    max-width: 150px;
+}
+#calc-actions button{
+        border: 2px solid red;
+        font-size: 30px;
+        background-color: black;
+        color: lemonchiffon;
+        width: 40px;
+        margin: 10px 10px;
+}
+div{
+    background-color: transparent;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
